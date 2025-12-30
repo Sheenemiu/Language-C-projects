@@ -2,7 +2,7 @@
 #include <string.h>
 #include <curl/curl.h>
 
-#define FROM_ADDR "sdaconcon@universityofbohol.edu.ph"
+#define FROM_ADDR "insert email here"
 
 
 char TO_ADDR[100];  
