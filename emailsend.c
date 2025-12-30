@@ -3,7 +3,7 @@
 #include <curl/curl.h>
 #include <curl/easy.h>
 
-#define FROM_ADDR "sdaconcon@universityofbohol.edu.ph"
+#define FROM_ADDR "insert your email here.com"
 
 
 char TO_ADDR[100];  
